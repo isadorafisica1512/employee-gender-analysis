@@ -5,7 +5,7 @@ Gender, workforce, leadership and salary analysis using SQL and Tableau.
 
 ## 📊 Project Overview
 
-This project analyzes gender representation, workforce composition, leadership representation, and salary differences using the Employees dataset.
+This project analyzes gender representation, workforce composition, leadership representation, and salary differences using the Employees-mod dataset.
 
 The analysis was developed using SQL for data extraction and transformation and Tableau for data visualization.
 
